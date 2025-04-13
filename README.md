@@ -7,11 +7,10 @@
 
 ### 🛠️ Tech Stack
 
-#### Languages & Frameworks
+#### Languages
 - ☕ Java 
-- 🐍 Python (FastAPI, NumPy)
-- 🅰️ Angular (RxJS, NgRx)
-- 🐳 Docker & Kubernetes
+- 🐍 Python
+- 🅰️ Angular
 
 #### Core Interests
 - 🌀 Parallel/Concurrent Programming (Akka, Java Thread Pools)
@@ -20,13 +19,13 @@
 - 🚀 GPU Computing (CUDA, OpenCL)
 - 📊 Observability (Prometheus, Grafana, OpenTelemetry)
 - ☁️ Cloud / GCP - AWS
+- 🐳 Docker & Kubernetes
 
 ---
 
 ### 📬 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rafaelcfreire)
-📧 [Email Me](mailto:rafaelcfreire@gmail.com)
 
 ---
 
