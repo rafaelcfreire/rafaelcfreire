@@ -16,7 +16,7 @@
 - 🌀 Parallel/Concurrent Programming (Akka, Java Thread Pools)
 - 🌐 Distributed Systems (Microservices, Kafka, RabbitMQ)
 - 🔒 Cybersecurity (Cryptography, OWASP Top 10)
-- 🚀 GPU Computing (CUDA, OpenCL)
+- 🚀 GPU Computing (CUDA, OpenCL, TornadoVM)
 - 📊 Observability (Prometheus, Grafana, OpenTelemetry)
 - ☁️ Cloud / GCP - AWS
 - 🐳 Docker & Kubernetes
