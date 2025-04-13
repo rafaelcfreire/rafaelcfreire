@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋 I'm Rafael Freire
 
-<!--
-**rafaelcfreire/rafaelcfreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer** passionate about building robust systems and exploring cutting-edge technologies ☄️  
+🌍 *Connecting the dots between code, infrastructure, and security*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+#### Languages & Frameworks
+- ☕ Java 
+- 🐍 Python (FastAPI, NumPy)
+- 🅰️ Angular (RxJS, NgRx)
+- 🐳 Docker & Kubernetes
+
+#### Core Interests
+- 🌀 Parallel/Concurrent Programming (Akka, Java Thread Pools)
+- 🌐 Distributed Systems (Microservices, Kafka, RabbitMQ)
+- 🔒 Cybersecurity (Cryptography, OWASP Top 10)
+- 🚀 GPU Computing (CUDA, OpenCL)
+- 📊 Observability (Prometheus, Grafana, OpenTelemetry)
+- ☁️ Cloud / GCP - AWS
+
+---
+
+### 📬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rafaelcfreire)
+📧 [Email Me](mailto:rafaelcfreire@gmail.com)
+
+---
+
+> "The art of programming is the art of organizing complexity." ― Edsger W. Dijkstra 🧠
