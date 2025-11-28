@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Rafael Freire
 
-**Software Developer** passionate about building robust systems and exploring cutting-edge technologies ☄️  
+**Software Developer** passionate about building robust systems and exploring cutting edge technologies ☄️  
 🌍 *Connecting the dots between code, infrastructure, and security*
 
 ---
